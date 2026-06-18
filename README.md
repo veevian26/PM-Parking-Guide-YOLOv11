@@ -52,14 +52,6 @@ The AI inference runs **entirely on-device** — no server, no internet required
 | 허동회 | Data preprocessing, experiment design |
 | 비비안 | Model experiments, evaluation |
 
----
-
-##  워크플로우 (Workflow)
-
-```
- 사진 촬영  →   온디바이스 AI 추론  →   주차 판단 로직  →   결과 시각화
- Take photo       On-device inference       Parking logic          Show result
-```
 
 ---
 
@@ -80,8 +72,8 @@ The AI inference runs **entirely on-device** — no server, no internet required
 
 | 역할 | 모델 | Epoch |
 |------|------|-------|
-| Object Detection (BBox) | **YOLOv11s** | 50 |
-| Segmentation (Polygon) | **YOLOv11n-seg** | 50 |
+| Object Detection (BBox) | **YOLO11s** | 70 |
+| Segmentation (Polygon) | **YOLO11n-seg** | 50 |
 
 ---
 
