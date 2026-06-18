@@ -2,7 +2,7 @@
 
 **YOLO11 기반 온디바이스 AI 실시간 PM 주차 가이드 시스템**
 
-> *Konyang University, Department of Artificial Intelligence — AI Project I (2026)*
+> *Konyang University, Department of Artificial Intelligence — AI Project I*
 
 ---
 
@@ -40,6 +40,7 @@ The AI inference runs **entirely on-device** — no server, no internet required
 
 ##  워크플로우 (Workflow)
 
+<img src="https://raw.githubusercontent.com/veevian26/PM-Parking-Guide-YOLOv11/main/flowchart.jpeg" width="700"/>
 
 
 ---
